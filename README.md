@@ -14,7 +14,7 @@ I'm an aspiring **AI & Machine Learning Developer** deeply passionate about the 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saif-ahmed-51bbb4202/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=about-dot-me&logoColor=white)](https://sites.google.com/view/saif-portfolio/home)
-[![Resume](https://img.shields.io/badge/-Resume-444?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1x42unvVGKlZoFIthwC5C_WwnFKKigZxv/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-444?style=flat&logo=google-drive&logoColor=white)]([https://drive.google.com/file/d/1x42unvVGKlZoFIthwC5C_WwnFKKigZxv/view?usp=sharing](https://drive.google.com/file/d/1YsZ7L-09Hrno_BNpBRHzvzQM1w4Y3Zrf/view?usp=sharing))
 
 ## 💼 Work Experience
 
