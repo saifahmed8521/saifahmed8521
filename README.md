@@ -15,6 +15,7 @@ I'm an aspiring **AI & Machine Learning Developer** deeply passionate about the 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saif-ahmed-51bbb4202/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=about-dot-me&logoColor=white)](https://sites.google.com/view/saif-portfolio/home)
 [![Resume](https://img.shields.io/badge/-Resume-444?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1YsZ7L-09Hrno_BNpBRHzvzQM1w4Y3Zrf/view?usp=sharing)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saifahmed8521@gmail.com)
 
 ## 💼 Work Experience
 
@@ -70,6 +71,11 @@ Working on **Application of Deep Learning into Quantum Photonics**, focusing on 
 - 🥉 _Execute 3.0_ – 3rd Place among 150+ teams for a Web3-based solution  
 - 🎖️ _Desh Ke Mentor_ – Government of Delhi initiative
 
+## ✍️ Blogs and writings
+
+I occasionally write about the intersection of AI and real-world applications. Here's a recent post:
+
+- 📨 [Most Companies Use Email/SMS Classifier — Here’s Why](https://medium.com/@saifahmed8521/most-companies-use-email-sms-classifier-91f1edd0663f)
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifahmed8521&layout=compact&theme=radical)
@@ -84,8 +90,18 @@ Working on **Application of Deep Learning into Quantum Photonics**, focusing on 
 _Thanks for dropping in! If my projects spark joy or genius, toss a ⭐ their way—_
 
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e48aa,100:9d50bb&height=2" width="80%" />
+</p>
+
+> ✨ *“People who are crazy enough to think they can change the world are the ones who do.”*  
+> — **Steve Jobs**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e48aa,100:9d50bb&height=2" width="80%" />
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=2" width="95%" />
+</p>
