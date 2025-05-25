@@ -76,6 +76,7 @@ Working on **Application of Deep Learning into Quantum Photonics**, focusing on 
 I occasionally write about the intersection of AI and real-world applications. Here's a recent post:
 
 - 📨 [Most Companies Use Email/SMS Classifier — Here’s Why](https://medium.com/@saifahmed8521/most-companies-use-email-sms-classifier-91f1edd0663f)
+- 🤖 [Demystifying LLMs: How ChatGPT Actually Works](https://medium.com/@saifahmed8521/demystifying-llms-how-chatgpt-actually-works-without-the-math-27f24d0804f8)
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifahmed8521&layout=compact&theme=radical)
