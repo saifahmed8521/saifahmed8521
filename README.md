@@ -33,9 +33,9 @@ Working on **Application of Deep Learning into Quantum Photonics**, focusing on 
 
 ## 🧪 Key Projects
 
-- ** Crypto-Graph** — LSTM-based crypto forecasting tool
-- ** Sea Raptor** — CNN + autonomous marine bot for plastic detection & collection
-- ** Thrust Vector Model Rocket** — Arduino-based control system for stable flight
+- **Crypto-Graph** — LSTM-based crypto forecasting tool
+- **Sea Raptor** — CNN + autonomous marine bot for plastic detection & collection
+- **Thrust Vector Model Rocket** — Arduino-based control system for stable flight
 
 
 ## 🛠️ Tech Stack & Skills
