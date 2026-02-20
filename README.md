@@ -4,12 +4,12 @@ I'm an aspiring **AI & Machine Learning Developer** deeply passionate about the 
 
 
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 Pursuing **B.Tech in Electrical Engineering** with a Minor in **Artificial Intelligence** at **Delhi Technological University**
-- 🧪 Passionate about **LLMs, AI Agents, RAG**, and **Quantum-AI Synergy**
-- 🤖 Currently exploring cutting-edge integrations between **ML & Quantum Photonics**
-- 💬 Known for strong technical writing, research curiosity, and clean implementation
+-  Pursuing **B.Tech in Electrical Engineering** with a Minor in **Artificial Intelligence** at **Delhi Technological University**
+-  Passionate about **LLMs, AI Agents, RAG**, and **Quantum-AI Synergy**
+-  Currently exploring cutting-edge integrations between **ML & Quantum Photonics**
+-  Known for strong technical writing, research curiosity, and clean implementation
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saif-ahmed-51bbb4202/)
@@ -33,9 +33,9 @@ Working on **Application of Deep Learning into Quantum Photonics**, focusing on 
 
 ## 🧪 Key Projects
 
-- **🔮 Crypto-Graph** — LSTM-based crypto forecasting tool
-- **🌊 Sea Raptor** — CNN + autonomous marine bot for plastic detection & collection
-- **🚀 Thrust Vector Model Rocket** — Arduino-based control system for stable flight
+- ** Crypto-Graph** — LSTM-based crypto forecasting tool
+- ** Sea Raptor** — CNN + autonomous marine bot for plastic detection & collection
+- ** Thrust Vector Model Rocket** — Arduino-based control system for stable flight
 
 
 ## 🛠️ Tech Stack & Skills
@@ -83,9 +83,9 @@ I occasionally write about the intersection of AI and real-world applications. H
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifahmed8521&show_icons=true&theme=radical)
 
 ## 🧩 Fun Facts
-- 🧘 I meditate before I code (sometimes!)
-- 🎧 Bollywood music is my debug partner
-- ⚡ I once built a model rocket before learning how to cook Maggi
+-  I meditate before I code (sometimes!)
+-  Bollywood music is my debug partner
+-  I once built a model rocket before learning how to cook Maggi
 
 
 _Thanks for dropping in! If my projects spark joy or genius, toss a ⭐ their way—_
